@@ -24,7 +24,6 @@ The Application does not offer a way to register or otherwise save personal info
 
 CrocBLOCK's Privacy Policy does not apply to the third-party integrations that may collect information used to identify you. Thus, we are advising you to consult the respective Privacy Policies of these third-party services for more detailed information. It may include their practices and instructions about how to opt-out of certain options:
 
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 
 
