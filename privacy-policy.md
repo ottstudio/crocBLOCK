@@ -22,9 +22,7 @@ The Application does not offer a way to register or otherwise save personal info
 
 ### Third-Party Privacy Policies
 
-CrocBLOCK's Privacy Policy does not apply to the third-party integrations that may collect information used to identify you. Thus, we are advising you to consult the respective Privacy Policies of these third-party services for more detailed information. It may include their practices and instructions about how to opt-out of certain options:
-
-*   [Facebook](https://www.facebook.com/about/privacy/update/printable)
+CrocBLOCK's Privacy Policy does not apply to the third-party integrations that may collect information used to identify you. Thus, we are advising you to consult the respective Privacy Policies of these third-party services for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
 
 
 ### Online Privacy Policy Only
@@ -43,7 +41,7 @@ We are concerned about safeguarding the confidentiality of your information. Ple
 
 This Privacy Policy may be updated from time to time for any reason. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This policy is effective as of 2021-09-14
+This policy is effective as of 2022-10-07
 
 ### Consent
 
